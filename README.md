@@ -1,3 +1,6 @@
+# Selamat Datang di Github Kuhong-V4 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
+
 - 👋 Hi, I’m @Ag-Gilang
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
